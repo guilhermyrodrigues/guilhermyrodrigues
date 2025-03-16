@@ -1,7 +1,7 @@
 ## Olá! eu sou Guilhermy Rodrigues.
 
-- 🔭 Procurando oportunidades como programador ...
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas. ...
+- 🔭 Procurando oportunidades como desenvolvedor de software.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 - 📫 Contate-me em : guilhermyr87@gmail.com
 
 <div align="left">
