@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre Min</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estatística</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
