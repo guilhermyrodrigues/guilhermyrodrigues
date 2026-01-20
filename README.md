@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Estatística</h2>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
