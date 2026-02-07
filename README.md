@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Analista de TI - Desenvolvedor Júnior</p>
+<p align="left">- Analista de TI  Desenvolvedor Júnior</p>
 
 ###
 
