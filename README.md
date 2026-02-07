@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Procurando oportunidades como desenvolvedor de software.<br>- Formado em Análise e Desenvolvimento de Sistemas.<br>- Contate-me em : guilhermyr87@gmail.com</p>
+<p align="left">- Analista de TI - Desenvolvedor Júnior</p>
 
 ###
 
