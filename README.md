@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Analista de TI na DCCO. Desenvolvedor de Software Júnior</p>
+<p align="left"> Analista de TI na DCCO. Desenvolvedor de Software Júnior.</p>
 
 ###
 
