@@ -28,18 +28,6 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
-
-###
-
-<div>
-<a href="https://github.com/guilhermyrodrigues">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermyrodrigues&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermyrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-###
-
 <h2 align="left">Redes Sociais</h2>
 
 ###
