@@ -1,4 +1,4 @@
-<h2 align="left">Sobre Min</h2>
+<h2 align="left">Sobre MiM</h2>
 
 ###
 
