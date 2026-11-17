@@ -1,44 +1,18 @@
-<h2 align="left">Sobre Mim</h2>
+## Olá, eu sou o Guilhermy 👋
 
-###
+Analista de TI e desenvolvedor na **DCCO**. No dia a dia eu:
 
-<p align="left"> Analista de TI na DCCO. Desenvolvedor de Software Júnior.</p>
+- desenvolvo sistemas internos web com **Next.js** e **TypeScript**, do código ao deploy no servidor;
+- crio telas, integrações e consultas no ERP **Sankhya** (Oracle / SQL);
+- automatizo processos das áreas da empresa para tirar trabalho manual de planilhas.
 
-###
+### Tecnologias
 
-<h2 align="left">Tecnologias</h2>
+[![Tecnologias](https://skillicons.dev/icons?i=java,spring,postgres,js,ts,react,nextjs,nodejs,docker,linux)](https://skillicons.dev)
 
-###
+Também trabalho com **Oracle SQL / PL/SQL** no ERP Sankhya.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+### Contato
 
-###
-
-<h2 align="left">Redes Sociais</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilhermy-rodrigues-7a5163244/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="guilhermyr87@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermy-rodrigues-7a5163244/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermyr87@gmail.com)
