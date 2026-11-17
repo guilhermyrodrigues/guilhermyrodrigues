@@ -1,19 +1,37 @@
 ## Olá, eu sou o Guilhermy 👋
 
-Analista de TI e desenvolvedor na **DCCO**. No dia a dia eu:
+Desenvolvedor de Software na **DCCO**, formado em Análise e Desenvolvimento de Sistemas. Trabalho com arquitetura de microsserviços, integrações de ERP (**Sankhya**) e modernização de processos operacionais e fiscais, com automações, APIs REST, rotinas em banco de dados e pipelines de entrega contínua.
 
-- desenvolvo sistemas internos web com **Next.js** e **TypeScript**, do código ao deploy no servidor;
-- personalizo o ERP **Sankhya**:
+### No dia a dia
+
+- desenvolvo sistemas web com **Next.js** e **TypeScript**, do código ao deploy com CI/CD;
+- construo APIs REST e automações assíncronas em **Java** e **Node.js**;
+- personalizo e integro o ERP **Sankhya**:
   - botões de ação e eventos de programação em **Java**;
   - componentes, dashboards e telas em **JSP**;
   - objetos de banco no **Oracle**: tabelas, views, triggers, procedures e funções em PL/SQL;
-- automatizo processos das áreas da empresa para tirar trabalho manual de planilhas.
+- automatizo processos operacionais e fiscais para tirar trabalho manual de planilhas.
 
-### Tecnologias
+### Stack
 
-[![Tecnologias](https://skillicons.dev/icons?i=java,spring,postgres,js,ts,react,nextjs,nodejs,docker,linux)](https://skillicons.dev)
+**Backend**
 
-Também trabalho com **Oracle SQL / PL/SQL** e **JSP** no ERP Sankhya.
+[![Backend](https://skillicons.dev/icons?i=java,nodejs)](https://skillicons.dev)
+
+**Frontend & Mobile**
+
+[![Frontend & Mobile](https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter)](https://skillicons.dev)
+
+**Banco de Dados & ERP**
+
+[![Banco de Dados](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+![Oracle](https://img.shields.io/badge/Oracle_SQL_/_PL--SQL-F80000?style=for-the-badge)
+![Sankhya ERP](https://img.shields.io/badge/Sankhya_ERP-1F6F43?style=for-the-badge)
+
+**DevOps, Nuvem & Qualidade**
+
+[![DevOps](https://skillicons.dev/icons?i=githubactions,docker,aws,linux)](https://skillicons.dev)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### Contato
 
